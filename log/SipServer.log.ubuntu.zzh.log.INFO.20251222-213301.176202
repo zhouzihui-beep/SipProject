@@ -1,0 +1,5 @@
+Log file created at: 2025/12/22 21:33:01
+Running on machine: ubuntu
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I1222 21:33:01.025904 176202 SipSupService.cpp:63] localip: 127.0.1 ,localport: 11300 ,sipip: 127.0.1 ,sipport: 5061
+E1222 21:33:01.026182 176202 SipSupService.cpp:81] m_subnodePort is wrong

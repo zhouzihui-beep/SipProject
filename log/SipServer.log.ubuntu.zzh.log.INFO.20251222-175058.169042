@@ -1,0 +1,6 @@
+Log file created at: 2025/12/22 17:50:58
+Running on machine: ubuntu
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I1222 17:50:58.565060 169042 main.cpp:49] 111111
+W1222 17:50:58.565271 169042 main.cpp:50] 222222
+E1222 17:50:58.565313 169042 main.cpp:51] 333333

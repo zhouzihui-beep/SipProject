@@ -1,0 +1,19 @@
+Log file created at: 2025/12/23 00:45:16
+Running on machine: ubuntu
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I1223 00:45:16.383447 182972 SipSupService.cpp:63] localip: 127.0.1 ,localport: 11300 ,sipip: 127.0.1 ,sipport: 5061
+I1223 00:45:16.383728 182972 SipSupService.cpp:96] subnodeip:127.0.1 ,subnodeport:7101 ,subnodepoto:0 ,subnodeAuth:1
+I1223 00:45:16.383822 182972 ThreadPool.cpp:25] thread:140611491608320was created
+I1223 00:45:16.383873 182972 ThreadPool.cpp:25] thread:140611483215616was created
+I1223 00:45:16.383970 182972 ThreadPool.cpp:25] thread:140611474822912was created
+I1223 00:45:16.384074 182972 ThreadPool.cpp:25] thread:140611466430208was created
+I1223 00:45:16.384177 182972 ThreadPool.cpp:25] thread:140611458037504was created
+I1223 00:45:16.384245 182972 ThreadPool.cpp:25] thread:140611449644800was created
+I1223 00:45:16.384330 182972 ThreadPool.cpp:25] thread:140611441252096was created
+I1223 00:45:16.384392 182972 ThreadPool.cpp:25] thread:140611432859392was created
+I1223 00:45:16.384476 182972 ThreadPool.cpp:25] thread:140611424466688was created
+I1223 00:45:16.384647 182972 ThreadPool.cpp:25] thread:140611416073984was created
+I1223 00:45:16.384706 182972 main.cpp:69] 127.0.1
+I1223 00:45:16.384783 182972 main.cpp:76] create thread pid:140611407681280
+I1223 00:45:16.384825 182972 main.cpp:77] main thread pid:140611491612480
+I1223 00:45:16.384869 182983 main.cpp:51] current thread id140611407681280

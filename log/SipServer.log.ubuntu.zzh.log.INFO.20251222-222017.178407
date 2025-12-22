@@ -1,0 +1,6 @@
+Log file created at: 2025/12/22 22:20:17
+Running on machine: ubuntu
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I1222 22:20:17.830123 178407 SipSupService.cpp:63] localip: 127.0.1 ,localport: 11300 ,sipip: 127.0.1 ,sipport: 5061
+I1222 22:20:17.830442 178407 SipSupService.cpp:96] subnodeip:127.0.1 ,subnodeport:7101 ,subnodepoto:0 ,subnodeAuth:1
+I1222 22:20:17.830462 178407 main.cpp:62] 127.0.1

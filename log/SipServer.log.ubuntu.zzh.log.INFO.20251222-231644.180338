@@ -1,0 +1,9 @@
+Log file created at: 2025/12/22 23:16:44
+Running on machine: ubuntu
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I1222 23:16:44.987725 180338 SipSupService.cpp:63] localip: 127.0.1 ,localport: 11300 ,sipip: 127.0.1 ,sipport: 5061
+I1222 23:16:44.987996 180338 SipSupService.cpp:96] subnodeip:127.0.1 ,subnodeport:7101 ,subnodepoto:0 ,subnodeAuth:1
+I1222 23:16:44.988014 180338 main.cpp:69] 127.0.1
+I1222 23:16:44.988140 180338 main.cpp:76] create thread pid:140056070723328
+I1222 23:16:44.988173 180339 main.cpp:51] current thread id140056070723328
+I1222 23:16:44.988178 180338 main.cpp:77] main thread pid:140056070727488
